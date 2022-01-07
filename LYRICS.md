@@ -31,6 +31,16 @@ Plus d'interdit, juste avoir les dents assez longues
 Pour croquer la vie, profiter de tout ce qui tombe
 La rue a su me prendre car elle me faisait confiance
 Chose qui avec mon père était comme de la nuisance
+<<<<<<< HEAD
+=======
+
+Mais laisse pas traîner ton fils
+Si tu ne veux pas qu'il glisse
+Qu'il te ramène du vice
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
+=======
+>>>>>>> 33f9b38f009a1848fad7c013d35c8dd96196ec36
 
 Que voulais-tu que ton fils apprenne dans la rue?
 Quelles vertus croyais-tu qu'on y enseigne?
