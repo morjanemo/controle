@@ -21,6 +21,7 @@ J'ai pas de conseil à donner, mais si tu veux pas qu'il glisse
 Regarde-le, quand il parle, écoute-le!
 Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux
 
+<<<<<<< HEAD
 Putain, c'est en me disant "j'ai jamais demandé à t'avoir!"
 C'est avec ces formules, trop saoulées, enfin faut croire
 Que mon père a contribué à me lier avec la rue
@@ -31,3 +32,11 @@ Plus d'interdit, juste avoir les dents assez longues
 Pour croquer la vie, profiter de tout ce qui tombe
 La rue a su me prendre car elle me faisait confiance
 Chose qui avec mon père était comme de la nuisance
+=======
+
+Laisse pas trainer ton fils
+Si tu ne veux pas qui glisse
+Qu'il te ramene du vice
+laisse pas trainer ton fils
+si tu veux pas qu'il glisse
+>>>>>>> d145c677bdc2143788a66e31b765e59fb1f42002
