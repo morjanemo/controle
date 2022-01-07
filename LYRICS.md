@@ -32,6 +32,12 @@ Plus d'interdit, juste avoir les dents assez longues
 Pour croquer la vie, profiter de tout ce qui tombe
 La rue a su me prendre car elle me faisait confiance
 Chose qui avec mon père était comme de la nuisance
+
+Mais laisse pas traîner ton fils
+Si tu ne veux pas qu'il glisse
+Qu'il te ramène du vice
+Laisse pas traîner ton fils
+Si tu veux pas qu'il glisse
 =======
 
 Laisse pas trainer ton fils
